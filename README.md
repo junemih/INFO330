@@ -1,7 +1,4 @@
-## June Mi Hong
-## DataModel Ontology
-## INFO330 Section BA
-## Due 04.04.2022
+## June Mi Hong: DataModel Ontology
 
 1. Oracle Sample Database: oraclesample.md
 
