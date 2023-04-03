@@ -1,0 +1,2 @@
+The Sakila sample database is intended to provide a standard schema that can be used for examples in books, tutorials, articles, samples, etc. The Sakila sample database also serves to highlight features of MySQL such as Views, Stored Procedures, and Triggers. It is from mysql.com, and is open-source. It is embedded and is a Sakila database. Python can be used to rent a DVD, return a DVD, and find overdue DVDs. 
+**Source: https://dev.mysql.com/doc/sakila/en/sakila-preface.html**

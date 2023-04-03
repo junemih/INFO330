@@ -1,0 +1,2 @@
+This is a Sample Analytics Dataset done in MongoDB Training on Data Analysis. It contains three collections for a typical financial service application: customers, accounts, and transactions. It is an open-source database and the hsoting model is embedded. It can be accessed and edited via JavaScript.
+**Source: https://www.mongodb.com/docs/atlas/sample-data/sample-analytics/#std-label-sample-analytics**

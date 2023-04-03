@@ -1,0 +1,2 @@
+This is a world sample database. The source of the sample data used in this database is fom Copyright Statistics Finland. It is open-source, and done through DB Visualizer. The hosting model is embedded. At least from the description and example code, it seems to only use SQL and not an additional coding language for access such as Java or Python. However, since it is in sequel, it could probably be accessed from both languages.
+**Source: https://dev.mysql.com/doc/world-setup/en/world-setup-history.html**

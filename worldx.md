@@ -1,0 +1,2 @@
+This is a database through DBVisualizers that allows SQL users to perform manipulation of the world_x sample database. There are four tables: country, city, countrylanguage, and country info. It is an open-source database and the hosting model is embedded. It can be accessed and edited by MYSQL users.
+**Source: https://dev.mysql.com/doc/world-x-setup/en/world-x-setup-installation.html**

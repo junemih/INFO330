@@ -1,0 +1,2 @@
+This dataset is a Sample Geospatial Dataset done in MongoDB. It holds shipwreck data and contains details about the location and type of wreck that occured. It is GeoJSON data, so it can be accessed and edited via Javascript. It is an open-source database and the hosting model is embedded. 
+**Source: https://www.mongodb.com/docs/atlas/sample-data/sample-geospatial/#std-label-sample-geospatial**

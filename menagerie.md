@@ -1,0 +1,2 @@
+This is a Menageria database example. It is open-source and the hosting model is embedded. It records information about pets, such as their name, their owner's name, their species, sex, birth, and death date if applicable. Both Python and Java can be used to access the table. 
+**Source: https://onecompiler.com/mysql/3xu8dq2mu**

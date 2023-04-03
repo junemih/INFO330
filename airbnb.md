@@ -1,0 +1,2 @@
+This is a MongoDB database that contains a collection called listingsAndReviews. It has the indexes id, property type/room type/beds, name, and address/location. It is from the MongoDB website. It is an open-source database and the hosting model is embedded. It can be accessed with JavaScript. 
+**Source: https://www.mongodb.com/docs/atlas/sample-data/sample-airbnb/#std-label-sample-airbnb**
